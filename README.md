@@ -8,3 +8,4 @@ I’m learning more about full-stack web development with my **TchoukballStats**
 future projects:
 
 1 - weather tracker
+2 - portfolio tracker

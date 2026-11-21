@@ -2,20 +2,20 @@
 
 I'm a developer who enjoys building practical, offline-first desktop tools and data-driven applications.
 
-I’m currently working on **AI-Interface**, a local AI hub for Ollama models.
-I’m learning more about full-stack web development with my **TchoukballStats** project.
+-  **Currently working on:** **AI-Interface** — a local AI hub for Ollama models.
+-  **Currently learning:** Full-stack web development through my **TchoukballStats** project.
 
-updates:
+---
 
-1 - update performance for all programs
-2 - make js versions of all projects
+###  Current Goals & Updates
+- [ ] Optimize performance across all existing programs
+- [ ] Build JavaScript versions of current projects
 
-future projects:
-
-1 -  weather tracker
-2 -  portfolio tracker
-3 -  meal planner tracker
-4 -  make media tracker
-5 -  make media hub
-6 -  make chess trainer
-7 -  make optimisation visualisation tools
+###  Future Projects
+- [ ] **Weather Tracker**
+- [ ] **Portfolio Tracker**
+- [ ] **Meal Planner Tracker**
+- [ ] **Media Tracker**
+- [ ] **Media Hub**
+- [ ] **Chess Trainer**
+- [ ] **Optimization Visualization Tools**

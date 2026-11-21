@@ -19,3 +19,4 @@ I'm a developer who enjoys building practical, offline-first desktop tools and d
 - [ ] **Media Hub**
 - [ ] **Chess Trainer**
 - [ ] **Optimization Visualization Tools**
+- [ ] **notes app**

@@ -12,10 +12,10 @@ updates:
 
 future projects:
 
-1 - weather tracker
-2 - portfolio tracker
-3 - meal planner tracker
-4 - make media tracker
-5 - make media hub
-6 - make chess trainer
-7 - make optimisation visualisation tools
+1 -  weather tracker
+2 -  portfolio tracker
+3 -  meal planner tracker
+4 -  make media tracker
+5 -  make media hub
+6 -  make chess trainer
+7 -  make optimisation visualisation tools

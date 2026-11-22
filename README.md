@@ -23,3 +23,4 @@ I'm a developer who enjoys building practical, offline-first desktop tools and d
 - [ ] **habit tracker**
 - [ ] **AI checker**
 - [ ] **AI Humaniser**
+- [ ] **sql db viewer**

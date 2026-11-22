@@ -21,3 +21,5 @@ I'm a developer who enjoys building practical, offline-first desktop tools and d
 - [ ] **Optimization Visualization Tools**
 - [ ] **notes app**
 - [ ] **habit tracker**
+- [ ] **AI checker**
+- [ ] **AI Humaniser**

@@ -20,3 +20,4 @@ I'm a developer who enjoys building practical, offline-first desktop tools and d
 - [ ] **Chess Trainer**
 - [ ] **Optimization Visualization Tools**
 - [ ] **notes app**
+- [ ] **habit tracker**
